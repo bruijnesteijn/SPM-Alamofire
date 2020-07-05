@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "gb-sct.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
